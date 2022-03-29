@@ -1,0 +1,10 @@
+main: me.BaddCamden.WorldBorderThing.Main
+name: WorldBorderThing
+version: 1.0
+author: BaddCamden
+
+api-version: 1.17
+
+commands:
+ borderentity:
+    description: border entity main command
